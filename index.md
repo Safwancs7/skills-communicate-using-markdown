@@ -2,4 +2,7 @@
 ## Welcome
 ### Learning Headers in GitHub
 ![My GitHub Mascot](https://octodex.github.com/images/yaktocat.png)
+```python
+print("Hello, GitHub Markdown!")
+
 
